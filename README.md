@@ -1,4 +1,4 @@
-# programing1
+programing1
 ## 教科書　課題
 ### 第1章　Pythonの基本
 - 1.1 Pythonとその特徴<br>
@@ -22,12 +22,13 @@
 - CHAPTER2 最終課題　[Q2_final_.py](CHAPTER2/Q2_final_.py)
 ### 第3章　制御構文
 - 3.1 if文の基礎<br> (問題1) [Q3_1_1.py](CHAPTER3/Q3_1_1.py) (問題2) [Q3_1_2.py](CHAPTER3/Q3_1_2.py)
-- 3.2 if文の応用<br>
-- 3.3 for文の基礎<br>
-- 3.4 for文の応用<br>
-- 3.5 while文の基礎<br>
-- 3.6 whileを使ったプログラミング<br>
-- 3.7 ファイルの操作<br>
+- 3.2 if文の応用<br> (問題1) [Q3_2_1.py](CHAPTER03/Q3_2_1.py) (問題2) [Q3_2_2.py]( CHAPTER03/Q3_2_2.py)
+- 3.3 for文の基礎<br> (問題1) [Q3_3_1.py](CHAPTER03/Q3_3_1.py) (問題2) [Q3_3_2.py](CHAPTER03/Q3_3_2.py)
+- 3.4 for文の応用<br> (問題1) [Q3_4_1.py](CHAPTER03/Q3_4_1.py) (問題2) [Q3_4_2.py](CHAPTER03/Q3_4_2.py)
+- 3.5 while文の基礎<br> (問題1) [Q3_5_1.py](CHAPTER03/Q3_5_1.py) (問題2) [Q3_5_2.py](CHAPTER03/Q3_5_2.py)
+- 3.6 whileを使ったプログラミング<br> (問題1) [Q3_6_1.py](CHAPTER03/Q3_6_1.py)
+- 3.7 ファイルの操作<br> (問題1) [Q3_7_1.py](CHAPTER03/Q3_7_1.py) (問題2) [Q3_7_2.py](CHAPTER03/Q3_7_2.py
+)
 - 3.8 バイナリファイルの扱い<br>
 ### 第4章　関数
 - 4.1 関数の書き方<br>
