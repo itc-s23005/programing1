@@ -47,7 +47,7 @@
 - 5.3 del を使った削除<br> (問題1）[Q5_3_1.py](CHAPTER5/Q5_3_1.py) [Q5_3_2.py](CHAPTER5/Q5_3_2.py)
 - 5.4 タプル<br> (問題1）[Q5_4_1.py](CHAPTER5/Q5_4_1.py) (問題2）[Q5_4_2.py](CHAPTER5/Q5_4_2.py) (問題3）[Q5_4_3.py](CHAPTER5/Q5_4_3.py) (問題4）[Q5_4_4.py](CHAPTER5/Q5_4_4.py) 
 - 5.5 集合（set）<br> (問題1）[Q5_5_1.py](CHAPTER5/Q5_5_1.py) (問題2）[Q5_5_2.py](CHAPTER5/Q5_5_2.py)
-- 5.6 集合を使った演算<br>
+- 5.6 集合を使った演算<br> (問題1) [Q5_6_1.py](CHAPTER5/Q5_6_1.py) (問題2) [Q5_6_2.py](CHAPTER5/Q5_6_2.py)
 - 5.7 辞書（dict）<br>
 - 5.8 辞書を使ったプログラミング<br>
 - 5.9 ループのテクニック<br>
