@@ -42,11 +42,11 @@
 - 4.9 コーディングスタイル<br> (問題1) [Q4_9_1.py](CHAPTER4/Q4_9_1.py) (問題2) [Q4_9_2.py](CHAPTER4/Q4_9_2.py)
 . 実習課題<br> [bublesort.py](CHAPTER4/)
 ### 第5章　データ構造
-- 5.1 リストのメソッド<br>
-- 5.2 リスト内包表記<br>
-- 5.3 del を使った削除<br>
-- 5.4 タプル<br>
-- 5.5 集合（set）<br>
+- 5.1 リストのメソッド<br> [Q5_1_1.py](CHAPTER5/Q5_1_1.py) (問題）[Q5_1_2.py](CHAPTER5/Q5_1_2.py) (問題3）[Q5_1_3.py](CHAPTER5/Q5_1_3.py)
+- 5.2 リスト内包表記<br> [Q5_2_1.py](CHAPTER5/Q5_2_1.py) (問題）[Q5_2_2.py](CHAPTER5/Q5_2_2.py) (問題3）[Q5_2_3.py](CHAPTER5/Q5_2_3.py)
+- 5.3 del を使った削除<br> (問題1）[Q5_3_1.py](CHAPTER5/Q5_3_1.py) [Q5_3_2.py](CHAPTER5/Q5_3_2.py)
+- 5.4 タプル<br> (問題1）[Q5_4_1.py](CHAPTER5/Q5_4_1.py) (問題2）[Q5_4_2.py](CHAPTER5/Q5_4_2.py) (問題3）[Q5_4_3.py](CHAPTER5/Q5_4_3.py) (問題4）[Q5_4_4.py](CHAPTER5/Q5_4_4.py) 
+- 5.5 集合（set）<br> (問題1）[Q5_5_1.py](CHAPTER5/Q5_5_1.py) (問題2）[Q5_5_2.py](CHAPTER5/Q5_5_2.py)
 - 5.6 集合を使った演算<br>
 - 5.7 辞書（dict）<br>
 - 5.8 辞書を使ったプログラミング<br>
