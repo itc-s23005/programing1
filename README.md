@@ -52,7 +52,7 @@
 - 5.8 辞書を使ったプログラミング<br>
 - 5.9 ループのテクニック<br>
 - 5.10 比較<br>
-. 素数判定<br> [SOSUU.py](CHAPTER/SOSUU.py)
+. 素数判定<br> [SOSUU.py](CHAPTER5/SOSUU.py)
 ### 第6章　クラス
 - 6.1 クラスの基本<br>
 - 6.2 クラス変数とインスタンス変数<br>
