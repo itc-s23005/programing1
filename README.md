@@ -40,7 +40,7 @@
 - 4.7 関数の中の関数<br> (問題1) [Q4_7_1.py](CHAPTER4/Q4_7_1.py)
 - 4.8 デコレータ<br> (問題1) [Q4_8_1.py](CHAPTER4/Q4_8_1.py)
 - 4.9 コーディングスタイル<br> (問題1) [Q4_9_1.py](CHAPTER4/Q4_9_1.py) (問題2) [Q4_9_2.py](CHAPTER4/Q4_9_2.py)
-. 実習課題<br> [bublesort.py](CHAPTER4/)
+. 実習課題<br> [bublesort.py](CHAPTER4/bublesort.py)
 ### 第5章　データ構造
 - 5.1 リストのメソッド<br> [Q5_1_1.py](CHAPTER5/Q5_1_1.py) (問題）[Q5_1_2.py](CHAPTER5/Q5_1_2.py) (問題3）[Q5_1_3.py](CHAPTER5/Q5_1_3.py)
 - 5.2 リスト内包表記<br> [Q5_2_1.py](CHAPTER5/Q5_2_1.py) (問題）[Q5_2_2.py](CHAPTER5/Q5_2_2.py) (問題3）[Q5_2_3.py](CHAPTER5/Q5_2_3.py)
@@ -52,6 +52,7 @@
 - 5.8 辞書を使ったプログラミング<br>
 - 5.9 ループのテクニック<br>
 - 5.10 比較<br>
+. 素数判定<br> [SOSUU.py](CHAPTER/SOSUU.py)
 ### 第6章　クラス
 - 6.1 クラスの基本<br>
 - 6.2 クラス変数とインスタンス変数<br>
