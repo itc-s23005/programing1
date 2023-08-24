@@ -50,8 +50,8 @@
 - 5.6 集合を使った演算<br> (問題1) [Q5_6_1.py](CHAPTER5/Q5_6_1.py) (問題2) [Q5_6_2.py](CHAPTER5/Q5_6_2.py)
 - 5.7 辞書（dict）<br> (問題1) [Q5_7_1.py](CHAPTER5/Q5_7_1.py) (問題2) [Q5_7_2.py](CHAPTER5/Q5_7_2.py)
 - 5.8 辞書を使ったプログラミング<br> (問題1)[Q5_8_1.py](CHAPTER5/Q5_8_1.py) (問題2) [Q5_8_2.py](CHAPTER5/Q5_8_2.py)
-- 5.9 ループのテクニック<br>
-- 5.10 比較<br>
+- 5.9 ループのテクニック<br> (問題1)[Q5_9_1.py](CHAPTER5/Q5_9_1.py)
+- 5.10 比較<br> (問題1)[Q5_10_1.py](CHAPTER5/Q5_10_1.py)
 . 素数判定<br> [SOSUU.py](CHAPTER5/SOSUU.py)
 ### 第6章　クラス
 - 6.1 クラスの基本<br>
