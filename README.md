@@ -64,8 +64,7 @@
 - 7.1 エラーと例外の基本<br> (問題1)[Q7_1_1.py](CHAPTER7/Q7_1_1.py) (問題2)[Q7_1_2.py](CHAPTER7/Q7_1_2.py) (問題3)[Q7_1_3.py](CHAPTER7/Q7_1_3.py) (問題4)[Q7_1_4.py](CHAPTER7/Q7_1_4.py)
 - 7.2 例外の種類と対応方法<br> (問題1)[Q7_2_1.py](CHAPTER7/Q7_2_1.py) (問題2)[Q7_2_2.py](CHAPTER7/Q7_2_2.py)
 - 7.3 ユーザ定義例外<br> (問題1)[Q7_3_1.py](CHAPTER7/Q7_3_1.py)
-- 7.4 クリーンアップ<br> (問題1)[Q7_4_1.py](CHAPTER7/Q7_4_1.py) (問題2)[Q7_4_2.py](CHAPTER7/Q7_4_2.p
-y)
+- 7.4 クリーンアップ<br> (問題1)[Q7_4_1.py](CHAPTER7/Q7_4_1.py) (問題2)[Q7_4_2.py](CHAPTER7/Q7_4_2.py)
 ### 第8章　標準ライブラリ
 - 8.1 os<br>
 - 8.2 pathlib<br>
